@@ -5,8 +5,9 @@ Formation intensive JavaScript de niveau avancé pour développeurs ayant des ba
 ## Prérequis
 
 - Maîtrise d'un langage de programmation (C, Python, etc.)
-- Connaissance des bases JavaScript (variables, fonctions, boucles)
 - Node.js 18+ installé
+
+**Note:** Si vous n'êtes pas à l'aise avec JavaScript, commencez par le **Module 0** pour consolider les bases !
 
 ## Objectifs
 
@@ -20,6 +21,15 @@ Cette piscine vous permettra de maîtriser :
 - Patterns avancés
 
 ## Structure
+
+### Module 0 : Consolidation des Bases (module-0/)
+**Prérequis recommandé avant les modules avancés**
+- Types & Variables (ex00)
+- Opérateurs & Expressions (ex01)
+- Fonctions (ex02)
+- Arrays Basics (ex03)
+- Array Methods: map, filter, reduce (ex04)
+- Objects (ex05)
 
 ### Module 1 : Functional Programming (ex00-ex04)
 - Higher-order functions
@@ -74,13 +84,22 @@ Cette piscine vous permettra de maîtriser :
 - Performance et lisibilité
 - Documentation JSDoc
 
+## Progression recommandée
+
+1. **Module 0** (si besoin) : Consolidation des bases
+2. **Modules 1-6** : Concepts avancés dans l'ordre
+3. **Module 7** : Projet final intégrant tout
+
 ## Tests
 
 ```bash
-# Tester un exercice
+# Module 0
+node module-0/ex00/test.js
+
+# Modules avancés
 node ex00/test.js
 
-# Tester tous les exercices
+# Tous les tests
 npm test
 ```
 
