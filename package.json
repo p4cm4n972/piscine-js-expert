@@ -1,0 +1,18 @@
+{
+  "name": "piscine-js-expert",
+  "version": "1.0.0",
+  "description": "Piscine JavaScript niveau expert",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test-all.js",
+    "test:module1": "node ex00/test.js && node ex01/test.js && node ex02/test.js && node ex03/test.js && node ex04/test.js",
+    "test:module2": "node ex05/test.js && node ex06/test.js && node ex07/test.js && node ex08/test.js && node ex09/test.js",
+    "test:module3": "node ex10/test.js && node ex11/test.js && node ex12/test.js && node ex13/test.js",
+    "test:module4": "node ex14/test.js && node ex15/test.js && node ex16/test.js && node ex17/test.js",
+    "test:module5": "node ex18/test.js && node ex19/test.js && node ex20/test.js && node ex21/test.js",
+    "test:module6": "node ex22/test.js && node ex23/test.js && node ex24/test.js && node ex25/test.js"
+  },
+  "keywords": ["javascript", "training", "expert", "piscine"],
+  "author": "",
+  "license": "MIT"
+}
