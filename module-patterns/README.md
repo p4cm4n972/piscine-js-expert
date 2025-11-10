@@ -6,6 +6,14 @@ Ce module regroupe les **patterns algorithmiques les plus fréquents en intervie
 
 Avoir des templates mentaux pour reconnaître instantanément quel pattern appliquer lors d'un problème d'interview.
 
+## 📈 Statistiques
+
+- **14 patterns essentiels** couverts (01-14)
+- **100+ exemples LeetCode** avec solutions complètes
+- **Templates réutilisables** pour chaque pattern
+- **Analyse de complexité** pour tous les algorithmes
+- **~3100 lignes** de documentation et code
+
 ## 📚 Structure
 
 ```
@@ -27,7 +35,7 @@ module-patterns/
 └── 15-cheatsheet.md            # Cheatsheet complète
 ```
 
-## 🏆 Top 15 Patterns à Maîtriser
+## 🏆 Top 14 Patterns à Maîtriser
 
 ### 1. Two Pointers ⭐⭐⭐⭐⭐
 **Quand l'utiliser** : Tableau trié, palindrome, paires
@@ -99,11 +107,6 @@ module-patterns/
 **Complexité** : O(V + E) temps
 **Exemples** : Number of Islands, Course Schedule
 
-### 15. Union Find ⭐⭐⭐
-**Quand l'utiliser** : Composantes connexes dynamiques
-**Complexité** : O(α(n)) amortized
-**Exemples** : Number of Islands II, Graph Valid Tree
-
 ## 🎓 Comment Utiliser ce Module
 
 ### Phase 1 : Apprentissage (Semaine 1-2)
@@ -141,9 +144,10 @@ Avant de coder, demande-toi :
 - [ ] Optimiser choix ? → Dynamic Programming
 
 **Contraintes** :
-- [ ] O(1) espace requis ? → Two Pointers, Fast/Slow
+- [ ] O(1) espace requis ? → Two Pointers, Fast/Slow, In-place Reversal
 - [ ] O(log n) temps ? → Binary Search
 - [ ] Range [1..n] ? → Cyclic Sort
+- [ ] Intervalles qui se chevauchent ? → Merge Intervals
 
 ## 📊 Fréquence par Entreprise
 
@@ -164,7 +168,7 @@ Avant de coder, demande-toi :
 7. **Backtracking** (explore + backtrack)
 8. **DP Bottom-Up** (tabulation)
 9. **Heap Operations** (heapify, push, pop)
-10. **Union Find** (find, union)
+10. **Graph DFS/BFS** (visited set)
 
 ## 📖 Ressources Complémentaires
 
