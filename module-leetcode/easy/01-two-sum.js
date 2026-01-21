@@ -246,4 +246,3 @@ runTests();
 **    → Tableau trié → utiliser Two Pointers
 */
 
-module.exports = { twoSum, twoSumBruteForce };

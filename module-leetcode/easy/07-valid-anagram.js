@@ -358,4 +358,3 @@ runTests();
 **    Return false dès qu'une incohérence trouvée
 */
 
-module.exports = { isAnagram, isAnagramSort, isAnagramArray, isAnagramOptimized };

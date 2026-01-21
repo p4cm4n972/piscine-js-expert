@@ -36,7 +36,6 @@ function createMultiplier(factor) {
     // Votre code ici (closure)
 }
 
-module.exports = {
     createGreeter,
     sumAll,
     applyOperation,

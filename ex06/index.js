@@ -61,7 +61,6 @@ function promisify(fn) {
 }
 
 // Export
-module.exports = {
     retry,
     timeout,
     parallel,

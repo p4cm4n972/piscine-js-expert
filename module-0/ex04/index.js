@@ -45,7 +45,6 @@ function countByProperty(arr, prop) {
     // Exemple: [{age: 20}, {age: 20}, {age: 30}], 'age' -> {20: 2, 30: 1}
 }
 
-module.exports = {
     doubleNumbers,
     filterEven,
     sumArray,

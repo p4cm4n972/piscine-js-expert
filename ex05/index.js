@@ -92,4 +92,3 @@ class MyPromise {
 }
 
 // Export
-module.exports = { MyPromise };

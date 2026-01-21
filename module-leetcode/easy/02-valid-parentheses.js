@@ -252,4 +252,3 @@ runTests();
 ** 3. Résoudre "Longest Valid Parentheses" (LeetCode #32) - Hard
 */
 
-module.exports = { isValid };

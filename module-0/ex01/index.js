@@ -40,4 +40,3 @@ function nullishDefault(value, defaultValue) {
     // Votre code ici (utilisez ?? ou vérification manuelle)
 }
 
-module.exports = { calculate, isInRange, getMax, nullishDefault };

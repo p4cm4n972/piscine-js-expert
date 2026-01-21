@@ -46,7 +46,6 @@ function getFirstAndRest(arr) {
     // Votre code ici (utilisez destructuring)
 }
 
-module.exports = {
     mergeArrays,
     cloneObject,
     addProperty,

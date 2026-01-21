@@ -350,4 +350,3 @@ runTests();
 **    → Boundary search : left < right
 */
 
-module.exports = { solution, firstBadVersionLinear };

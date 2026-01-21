@@ -315,4 +315,3 @@ runTests();
 **    Éviter les parcours multiples inutiles
 */
 
-module.exports = { maxProfit, maxProfitBruteForce, maxProfitWithIndices };

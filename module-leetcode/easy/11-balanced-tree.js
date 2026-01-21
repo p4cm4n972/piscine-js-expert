@@ -456,7 +456,6 @@ runTests();
 **    Balanced ↔ |BF| ≤ 1 pour tous les nœuds
 */
 
-module.exports = {
 	isBalanced,
 	isBalancedNaive,
 	isBalancedWithObject,

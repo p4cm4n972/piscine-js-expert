@@ -35,7 +35,6 @@ function getMiddleElements(arr) {
     // Votre code ici (utilisez slice)
 }
 
-module.exports = {
     getLastElement,
     addToEnd,
     removeFirst,

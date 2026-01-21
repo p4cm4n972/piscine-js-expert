@@ -425,4 +425,3 @@ runTests();
 **    Utiliser O(n) espace (2 stacks) pour avoir O(1) temps
 */
 
-module.exports = { MyQueue, MyQueueNaive };

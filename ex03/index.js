@@ -89,4 +89,3 @@ class Maybe {
 }
 
 // Export
-module.exports = { Maybe };

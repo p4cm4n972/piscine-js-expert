@@ -44,7 +44,6 @@ function truncate(str, maxLength) {
     // Votre code ici
 }
 
-module.exports = {
     reverseString,
     isPalindrome,
     countVowels,

@@ -366,4 +366,3 @@ runTests();
 **    → Total : O(n log n) (pas mieux que linear si 1 seule recherche)
 */
 
-module.exports = { search, searchRecursive };

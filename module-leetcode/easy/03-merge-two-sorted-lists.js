@@ -270,4 +270,3 @@ runTests();
 **    → En interview, montrer les deux approches !
 */
 
-module.exports = { mergeTwoLists, mergeTwoListsRecursive, ListNode, arrayToList };

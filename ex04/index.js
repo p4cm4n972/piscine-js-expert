@@ -101,4 +101,3 @@ class Lazy {
 }
 
 // Export
-module.exports = { Lazy };

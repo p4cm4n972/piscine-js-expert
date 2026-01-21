@@ -397,7 +397,6 @@ runTests();
 **    → Convertir lettre en index 0-25
 */
 
-module.exports = {
 	canConstruct,
 	canConstructMap,
 	canConstructObject,

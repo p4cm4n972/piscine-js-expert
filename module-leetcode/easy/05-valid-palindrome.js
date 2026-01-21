@@ -357,4 +357,3 @@ runTests();
 **    charCodeAt() vs codePointAt()
 */
 
-module.exports = { isPalindrome, isPalindromeSimple, isPalindromeHybrid };

@@ -45,7 +45,6 @@ function getObjectKeys(obj) {
     // Votre code ici (utilisez for...in)
 }
 
-module.exports = {
     getGrade,
     fizzBuzz,
     sumRange,

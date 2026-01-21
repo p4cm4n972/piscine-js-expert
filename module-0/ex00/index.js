@@ -37,7 +37,6 @@ function isLooseEqual(a, b) {
     // Votre code ici
 }
 
-module.exports = {
     getType,
     convertToNumber,
     isStrictEqual,

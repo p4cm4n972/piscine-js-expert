@@ -404,7 +404,6 @@ runTests();
 **    → Importance des arbres auto-équilibrés (AVL, Red-Black)
 */
 
-module.exports = {
 	lowestCommonAncestor,
 	lowestCommonAncestorRecursive,
 	lowestCommonAncestorGeneric,

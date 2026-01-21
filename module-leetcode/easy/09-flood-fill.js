@@ -447,4 +447,3 @@ runTests();
 **    → Évite travail inutile + boucle infinie
 */
 
-module.exports = { floodFill, floodFillBFS, floodFillStack };

@@ -16,4 +16,3 @@ function curry(fn) {
 }
 
 // Export
-module.exports = { curry };

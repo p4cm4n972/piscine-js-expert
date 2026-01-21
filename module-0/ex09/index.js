@@ -49,7 +49,6 @@ function taggedTemplate(strings, ...values) {
     // Votre code ici (tagged template function)
 }
 
-module.exports = {
     greet,
     formatPrice,
     createHTMLCard,

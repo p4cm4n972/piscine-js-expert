@@ -89,7 +89,6 @@ class AsyncQueue {
 }
 
 // Export
-module.exports = {
     range,
     fibonacci,
     take,

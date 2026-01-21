@@ -17,4 +17,3 @@ function pipe(...fns) {
 }
 
 // Export
-module.exports = { compose, pipe };

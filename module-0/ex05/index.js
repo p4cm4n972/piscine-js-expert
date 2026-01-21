@@ -37,7 +37,6 @@ function invertObject(obj) {
     // Votre code ici
 }
 
-module.exports = {
     getProperty,
     mergeObjects,
     pick,

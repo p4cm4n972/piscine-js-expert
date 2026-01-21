@@ -393,7 +393,6 @@ runTests();
 **    → D'autres changent (BST → plus un BST après inversion)
 */
 
-module.exports = {
 	invertTree,
 	invertTreeExplicit,
 	invertTreeIterative,

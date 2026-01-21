@@ -405,4 +405,3 @@ runTests();
 **    → Important en interview senior
 */
 
-module.exports = { hasCycle, hasCycleHashSet, hasCycleDestructive, ListNode, createCycleList };

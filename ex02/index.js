@@ -19,4 +19,3 @@ function memoize(fn, options = {}) {
 }
 
 // Export
-module.exports = { memoize };
